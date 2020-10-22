@@ -8,3 +8,5 @@ TODO
 - CORS
 - Webid-json
 - Webacl-json
+
+Copyright (c) 2020 Melvin Carvalho
